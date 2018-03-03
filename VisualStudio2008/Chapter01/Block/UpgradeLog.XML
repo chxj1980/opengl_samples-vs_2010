@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Block">
+</Property><Property Name="Solution File" Value="C:\Users\jiayayao\Downloads\opengl code\code\VisualStudio2008\Chapter01\Block\Block.sln">
+</Property><Property Name="Date" Value="2018年2月23日">
+</Property><Property Name="Time" Value="11:39:57">
+</Property></Properties><Event ErrorLevel="0" Project="Block" Source="Block.vcproj" Description="Converting project file 'C:\Users\jiayayao\Downloads\opengl code\code\VisualStudio2008\Chapter01\Block\Block.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Block" Source="Block.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Block" Source="Block.vcproj" Description="Done converting to new project file 'C:\Users\jiayayao\Downloads\opengl code\code\VisualStudio2008\Chapter01\Block\Block.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Block" Source="Block.vcproj" Description="Converted">
+</Event></UpgradeLog>
